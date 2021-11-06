@@ -21,7 +21,9 @@
 
 ![Alt text](https://github.com/Parisa-Bagherzadeh/Image_processing/blob/main/images/rip.jpg "Optional title")
 
+# Gradient
 
+![Alt text](https://github.com/Parisa-Bagherzadeh/Image_processing/blob/main/Assignment21/result/gradient.jpg " Optional title")
 
 
 # Highway(car elimination)

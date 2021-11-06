@@ -7,6 +7,9 @@
 ![Alt text](https://github.com/Parisa-Bagherzadeh/Image_processing/blob/main/Assignment21/result/female.jpg " Optional title")
 ![Alt text](https://github.com/Parisa-Bagherzadeh/Image_processing/blob/main/Assignment21/result/male.jpg " Optional title")
 
+# Rotation 
+
+![Alt text](https://github.com/Parisa-Bagherzadeh/Image_processing/blob/main/Assignment21/result/rotation.jpg " Optional title")
 
 # Highway(car elimination)
 

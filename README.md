@@ -11,6 +11,11 @@
 
 ![Alt text](https://github.com/Parisa-Bagherzadeh/Image_processing/blob/main/Assignment21/result/rotation.jpg " Optional title")
 
+
+# Wolf
+
+![Alt text](https://github.com/Parisa-Bagherzadeh/Image_processing/blob/main/Assignment21/result/wolf.jpg " Optional title")
+
 # Highway(car elimination)
 
 ![Alt text](https://github.com/Parisa-Bagherzadeh/Image_processing/blob/main/noise%2Cmerge/result/highway.jpg "Optional title")

@@ -29,8 +29,12 @@
 
 ![Alt text](https://github.com/Parisa-Bagherzadeh/Image_processing/blob/main/Assignment21/result/name.jpg " Optional title")
 
+# Hidden word
+
+![Alt text](https://github.com/Parisa-Bagherzadeh/Image_processing/blob/main/Assignment22/result/hidden_word.jpgg " Optional title")
+
 # Highway(car elimination)
 
-![Alt text](https://github.com/Parisa-Bagherzadeh/Image_processing/blob/main/noise%2Cmerge/result/highway.jpg "Optional title")
+![Alt text](https://github.com/Parisa-Bagherzadeh/Image_processing/blob/main/noise%2Cmerge/result/highway.jpg " Optional title")
 
 

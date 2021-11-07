@@ -47,6 +47,14 @@
   <img src='https://github.com/Parisa-Bagherzadeh/Image_processing/blob/main/Assignment22/result/paint.jpg' width='300'>
 </p>  
 
+# Merge faces
+<p float='left'>
+  <img src='https://github.com/Parisa-Bagherzadeh/Image_processing/blob/main/Assignment22/result/paris.jpg' width='160'>
+  <img src='https://github.com/Parisa-Bagherzadeh/Image_processing/blob/main/Assignment22/result/parisa.jpg' width='200'>
+  <img src='https://github.com/Parisa-Bagherzadeh/Image_processing/blob/main/Assignment22/result/merge_face1.jpg' width='200'>
+  <img src='https://github.com/Parisa-Bagherzadeh/Image_processing/blob/main/Assignment22/result/merge_face2.jpg' width='200'>
+</p>  
+  
 # Noisy picture
 
 <p float='left'>

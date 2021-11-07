@@ -31,7 +31,7 @@
 
 # Hidden word
 
-![Alt text](https://github.com/Parisa-Bagherzadeh/Image_processing/blob/main/Assignment22/result/hidden_word.jpgg " Optional title")
+![Alt text](https://github.com/Parisa-Bagherzadeh/Image_processing/blob/main/Assignment22/result/hidden_word.jpg " Optional title")
 
 # Highway(car elimination)
 

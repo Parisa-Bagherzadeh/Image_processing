@@ -1,6 +1,6 @@
 # Chess board
 
-![Alt text](https://github.com/Parisa-Bagherzadeh/Image_processing/blob/main/Assignment21/result/chessboard.jpg "Optional title")
+<img src='https://github.com/Parisa-Bagherzadeh/Image_processing/blob/main/Assignment21/result/chessboard.jpg' width='300'>
 
 # Negative Picture
 
@@ -31,10 +31,18 @@
 
 # Hidden word
 
-![Alt text](https://github.com/Parisa-Bagherzadeh/Image_processing/blob/main/Assignment22/result/hidden_word.jpg " Optional title")
+<img src='https://github.com/Parisa-Bagherzadeh/Image_processing/blob/main/Assignment22/result/hidden_word.jpg' width='300'>
+
+# Black hole
+<img src="https://github.com/Parisa-Bagherzadeh/Image_processing/blob/main/Assignment22/result/space.jpg"  width="300"/>
+
 
 # Highway(car elimination)
 
-![Alt text](https://github.com/Parisa-Bagherzadeh/Image_processing/blob/main/noise%2Cmerge/result/highway.jpg " Optional title")
+<img src='https://github.com/Parisa-Bagherzadeh/Image_processing/blob/main/Assignment22/result/highway(car_elimination).jpg' width='300'>
 
-
+# Paint
+<p float='left'>
+  <img src='https://github.com/Parisa-Bagherzadeh/Image_processing/blob/main/Assignment22/result/nature.jpg' width='300'>
+  <img src='https://github.com/Parisa-Bagherzadeh/Image_processing/blob/main/Assignment22/result/paint.jpg' width='300'>
+</p>  

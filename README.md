@@ -36,6 +36,8 @@
 # Black hole
 <img src="https://github.com/Parisa-Bagherzadeh/Image_processing/blob/main/Assignment22/result/space.jpg"  width="300"/>
 
+# Testing board
+<img src='https://github.com/Parisa-Bagherzadeh/Image_processing/blob/main/Assignment22/result/board.jpg' width='300'>
 
 # Highway(car elimination)
 

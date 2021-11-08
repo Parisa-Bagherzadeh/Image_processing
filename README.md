@@ -19,7 +19,7 @@
 
 # R.I.P
 
-![Alt text](https://github.com/Parisa-Bagherzadeh/Image_processing/blob/main/images/rip.jpg "Optional title")
+![Alt text](https://github.com/Parisa-Bagherzadeh/Image_processing/blob/main/Assignment21/result/rip.jpg " Optional title")
 
 # Gradient
 

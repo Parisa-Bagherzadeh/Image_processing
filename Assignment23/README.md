@@ -1,5 +1,5 @@
 # Face emoji
-<img src='https://github.com/Parisa-Bagherzadeh/Image_processing/blob/main/Assignment21/result/chessboard.jpg' width='300'>
+<img src='https://github.com/Parisa-Bagherzadeh/Image_processing/blob/main/Assignment23/Result/face_emoji.png' width='300'>
 
 # Eyes , lips
 

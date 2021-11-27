@@ -14,7 +14,8 @@
 # Dynamic filter 
 
 <p float='left'>
-  <img src='https://github.com/Parisa-Bagherzadeh/Image_processing/blob/main/Assignment25/result/3x3%20filter.jpg' width='300''>
+  <img src='https://github.com/Parisa-Bagherzadeh/Image_processing/blob/main/Assignment25/result/paris_gray.jpg' width='300'>
+  <img src='https://github.com/Parisa-Bagherzadeh/Image_processing/blob/main/Assignment25/result/3x3%20filter.jpg' width='300'>
   <img src='https://github.com/Parisa-Bagherzadeh/Image_processing/blob/main/Assignment25/result/5x5%20filter.jpg' width='300'>
   <img src='https://github.com/Parisa-Bagherzadeh/Image_processing/blob/main/Assignment25/result/7x7%20filter.jpg' width='300'>   
   <img src='https://github.com/Parisa-Bagherzadeh/Image_processing/blob/main/Assignment25/result/7x7%20filter.jpg' width='300'>  

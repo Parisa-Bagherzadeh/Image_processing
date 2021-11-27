@@ -1,7 +1,7 @@
 # Blur filter
 <img src='https://github.com/Parisa-Bagherzadeh/Image_processing/blob/main/Assignment25/result/flower.jpg' width='300'>
 
-# Convolution
+# Edge detection
 <img src='https://github.com/Parisa-Bagherzadeh/Image_processing/blob/main/Assignment25/result/lion_output.jpg' width='300'>
 
 # Horizontal edge detection

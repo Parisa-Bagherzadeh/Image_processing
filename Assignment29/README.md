@@ -1,1 +1,8 @@
+# Rubic Solved! 
+
+
+
+
+# Change Color 
+
 

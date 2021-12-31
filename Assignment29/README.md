@@ -8,7 +8,18 @@
 
 # Change Color 
 
-<img src='https://github.com/Parisa-Bagherzadeh/Image_processing/blob/main/Assignment29/result/Carrot.jpg' width='300'>
+ <p float='left'>
+  <img src='https://github.com/Parisa-Bagherzadeh/Image_processing/blob/main/Assignment29/result/carrot.jpg' width='300'>
+  <img src='https://github.com/Parisa-Bagherzadeh/Image_processing/blob/main/Assignment29/result/Carrot.jpg' width='300'>
+</p>                                                                                           
+              
+              
+# Microsoft logo    
+<img src='https://github.com/Parisa-Bagherzadeh/Image_processing/blob/main/Assignment29/result/logo_result.jpg' width='300'>
+
+ 
+                                                                                                                                                                                                                                   
+                                                                                                                      
 
 
 

@@ -9,6 +9,15 @@ video=cv2.VideoCapture(0)
 min_HSV=np.array([0,58,30],dtype='uint8')
 max_HSV=np.array([33,255,255],dtype='uint8')
 
+#skin detection in image 
+image=cv2.imread('paris1.jpg')
+imageHSV=cv2.cvtColor(image,cv2.COLOR_BGR2HSV)
+image_skinRegionHSV=cv2.inRange(imageHSV,min_HSV,max_HSV)
+image_skinHSV=cv2.bitwise_and(image,image,mask=image_skinRegionHSV)
+cv2.imwrite('skin_dection.jpg',np.hstack([image,image_skinHSV]))
+
+
+#skin detection in video
 while(True):
     ret,BGR_frame=video.read()
 

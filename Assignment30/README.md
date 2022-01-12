@@ -7,6 +7,6 @@
 </p>  
 
 
-# Skin detection
+# Skin detection (Image and video)
 
 <img src='https://github.com/Parisa-Bagherzadeh/Image_processing/blob/main/Assignment30/result/skin_dection.jpg' width='500'>

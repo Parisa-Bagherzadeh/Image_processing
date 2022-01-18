@@ -1,4 +1,4 @@
-# Object detection
+# Object detection from scratch
 
 <p float='left'>
   <img src='https://github.com/Parisa-Bagherzadeh/Image_processing/blob/main/Assignment27/result/hat.jpg' width='300'>

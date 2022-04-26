@@ -5,7 +5,7 @@
 # Negative Picture
 
 <img src="https://github.com/Parisa-Bagherzadeh/Image_processing/blob/main/Assignment21/result/female.jpg " width="300">
-![Alt text](https://github.com/Parisa-Bagherzadeh/Image_processing/blob/main/Assignment21/result/male.jpg " Optional title")
+<img sc="https://github.com/Parisa-Bagherzadeh/Image_processing/blob/main/Assignment21/result/male.jpg " width="300">
 
 # Rotation 
 
